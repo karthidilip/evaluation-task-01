@@ -1,0 +1,51 @@
+
+.label-lorem{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 500;
+line-height: 28.13px;
+text-align: center;
+margin-left: 30px;
+
+}
+
+.row {
+
+    display:flex;
+    justify-content: space-between;
+    
+}
+.row-right-main-container{
+
+    margin-top: 50px;
+    margin-right: 40px;
+
+}
+.main-container {
+
+    width: 900px;
+height: 130px;
+top: 2367px;
+left: 407px;
+gap: 0px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+border: none; /* Adding a border */
+box-sizing: border-box; 
+background-color:  rgba(230, 246, 254, 1);
+margin-bottom: 80px;
+margin-right:60px ;
+
+}
+
+.label-trial{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    text-align: left;
+    color: rgba(3, 169, 244, 1);
+     margin-top: -30px;
+     margin-left: 30px;
+
+}
